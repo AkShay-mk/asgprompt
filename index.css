@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(60deg,violet,blue);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: -10px;
+    height: 100vh;
+    
+}
+#b1:hover{
+    color: black;
+    background-color: brown;
+    
+}
+#ip1{
+    border: none;
+    outline: none;
+    
+}
